@@ -1,0 +1,19 @@
+.elementor-kit-7{--e-global-color-primary:#7A524B;--e-global-color-secondary:#C4A09A;--e-global-color-text:#000000;--e-global-color-accent:#C4A09A;--e-global-color-b9cc0f5:#FFFFFF;--e-global-color-312e0ac:#ECECEC;--e-global-typography-primary-font-family:"Italiana";--e-global-typography-primary-font-size:50px;--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"Italiana";--e-global-typography-secondary-font-size:18px;--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Lato";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Lato";--e-global-typography-accent-font-weight:300;--e-global-typography-888d2c4-font-family:"Dream Avenue";--e-global-typography-888d2c4-font-size:18px;--e-global-typography-888d2c4-font-weight:400;--e-global-typography-7ac2e7a-font-family:"Italiana";--e-global-typography-7ac2e7a-font-size:73px;--e-global-typography-7ac2e7a-font-weight:400;--e-global-typography-7ac2e7a-line-height:80px;background-color:var( --e-global-color-b9cc0f5 );}.elementor-kit-7 button:hover,.elementor-kit-7 button:focus,.elementor-kit-7 input[type="button"]:hover,.elementor-kit-7 input[type="button"]:focus,.elementor-kit-7 input[type="submit"]:hover,.elementor-kit-7 input[type="submit"]:focus,.elementor-kit-7 .elementor-button:hover,.elementor-kit-7 .elementor-button:focus{background-color:var( --e-global-color-secondary );color:#FFFFFF;}.elementor-kit-7 e-page-transition{background-color:#FFBC7D;}.elementor-kit-7 button,.elementor-kit-7 input[type="button"],.elementor-kit-7 input[type="submit"],.elementor-kit-7 .elementor-button{color:#FFFFFF;border-radius:100px 100px 100px 100px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1400px;}.e-con{--container-max-width:1400px;}.elementor-widget:not(:last-child){margin-block-end:10px;}.elementor-element{--widgets-spacing:10px 10px;--widgets-spacing-row:10px;--widgets-spacing-column:10px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-kit-7{--e-global-typography-888d2c4-font-size:16px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-7{--e-global-typography-888d2c4-font-size:14px;--e-global-typography-7ac2e7a-font-size:60px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.elementor-kit-7 .elementor-heading-title {
+    background-image: linear-gradient(to left, #C4A09A, #eed3cf);
+    -webkit-background-clip: text;
+    display: inline-block;
+    -webkit-text-fill-color: #00000000;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Dream Avenue';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://solnailsspacary.com/wp-content/uploads/2024/12/FontsFree-Net-Dream-Avenue.eot');
+	src: url('https://solnailsspacary.com/wp-content/uploads/2024/12/FontsFree-Net-Dream-Avenue.eot?#iefix') format('embedded-opentype'),
+		url("../fonts/fontsfree-net-dream-avenue-e51bc78003.woff2") format('woff2'),
+		url('https://solnailsspacary.com/wp-content/uploads/2024/12/FontsFree-Net-Dream-Avenue.woff') format('woff'),
+		url('https://solnailsspacary.com/wp-content/uploads/2024/12/FontsFree-Net-Dream-Avenue.ttf') format('truetype'),
+		url('https://solnailsspacary.com/wp-content/uploads/2024/12/FontsFree-Net-Dream-Avenue.svg#DreamAvenue') format('svg');
+}
+/* End Custom Fonts CSS */
